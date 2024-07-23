@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def checkSimilar(a,b):
     count=0
     c=min(len(a[0]),len(b[0]))
