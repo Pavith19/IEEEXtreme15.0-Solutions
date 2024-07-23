@@ -1,5 +1,7 @@
-
-
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 games = int(input())
 for game in range(games):
     rounds = int(input())
