@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 import numpy as np
 
 dic = {"#":1, '.':0, '?':0}
