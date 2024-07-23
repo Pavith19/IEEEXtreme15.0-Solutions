@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def find_shortest_path(graph, start, end, path=[]):
     path = path + [start]
     if start == end:
