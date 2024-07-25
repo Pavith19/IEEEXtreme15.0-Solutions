@@ -14,13 +14,14 @@ Welcome to the IEEEXtreme 15.0 Solutions repository! This collection contains my
 
 ## Problems Solved
 
-- [Beautiful Summation](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Beautiful%20Summation)
-- [Doctors Appointments](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Doctors%20Appointments)
-- [Expression Evaluation](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Expression%20Evaluation)
-- [Image Convolution](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Image%20Convolution)
-- [Image Similarity](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Image%20Similarity)
-- [Maximum Exploitation](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Maximum%20Exploitation)
-- [Rigged Dice](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Rigged%20Dice)
-- [Spies of Red and Blue](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Spies%20of%20Red%20and%20Blue)
-- [Xtreme Winners](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Xtreme%20Winners)
+1. [Beautiful Summation](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Beautiful%20Summation)
+2. [Doctors Appointments](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Doctors%20Appointments)
+3. [Expression Evaluation](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Expression%20Evaluation)
+4. [Image Convolution](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Image%20Convolution)
+5. [Image Similarity](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Image%20Similarity)
+6. [Maximum Exploitation](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Maximum%20Exploitation)
+7. [Rigged Dice](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Rigged%20Dice)
+8. [Spies of Red and Blue](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Spies%20of%20Red%20and%20Blue)
+9. [Xtreme Winners](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Xtreme%20Winners)
+
 
