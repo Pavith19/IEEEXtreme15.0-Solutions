@@ -28,4 +28,38 @@ Welcome to the IEEEXtreme 15.0 Solutions repository! This collection contains my
 8. [Spies of Red and Blue](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Spies%20of%20Red%20and%20Blue)
 9. [Xtreme Winners](https://github.com/Pavith19/IEEEXtreme15.0-Solutions/tree/main/Xtreme%20Winners)
 
+## Repository Structure
+
+Each problem folder typically contains:
+- A PDF file with the problem statement
+- Solution file
+
+## Disclaimer
+
+These solutions are my own work and were created for educational purposes. They may not be the most optimal solutions, but they passed the competition's test cases.
+
+## Contributing
+
+We welcome contributions to enhance this collection of IEEEXtreme 15.0 solutions:
+
+- **Add New Solutions**: Submit solutions for problems not yet covered.
+- **Improve Existing Solutions**: Optimize or clarify current solutions.
+- **Multiple Language Implementations**: Add solutions in other programming languages.
+- **Improve Documentation**: Enhance the README, code comments, or other documentation.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://instagram.com/_mr_2001__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_2001__" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/pavith-bambaravanage-465300293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavith-bambaravanage-465300293" height="25" width="35" /></a>
+  <a href="https://www.hackerrank.com/@pavith_db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pavith_db" height="40" width="45" /></a>
+  <a href="https://www.leetcode.com/pavith_db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pavith_db" height="30" width="40" /></a>
+  <a href="mailto:pavithd2020@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="pavithd2020@gmail.com" height="30" width="40" /></a>
+</p>
+
+
 
